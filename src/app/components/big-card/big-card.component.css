@@ -1,5 +1,5 @@
 .container__big-card{
-  width: 400px;
+  width: 600px;
   height: auto;
   display: flex;
   flex-direction: column;
@@ -25,5 +25,5 @@
 
 .big-card__photo > img {
   width: 100%;
-  min-width: 400px;
+  min-width: 630px;
 }
